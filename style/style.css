@@ -99,14 +99,18 @@
   }
 
   @media screen and (max-width:576px) {
-      header {
-
-          padding: 0px;
-
-      }
-      nav{
+    header {
+        background:  rgba(255, 144, 14, 0.10);
+        padding: 5px;
+        
+    }
+    nav {
         flex-direction: column;
-      }
-
+    }
+    .banner img {
+        margin-top: 20px;
+        width: 350px;
+        margin-bottom: 25px;
+    }
 
   }
