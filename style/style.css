@@ -112,5 +112,14 @@
         width: 350px;
         margin-bottom: 25px;
     }
+    .banner {
+        text-align: center;
+    }
+  
+    .banner-content {
+        max-width: 400px;
+        text-align: center;
+        margin: 0 auto;
+    }
 
   }
